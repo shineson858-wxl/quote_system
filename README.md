@@ -73,3 +73,9 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the contribution workflow, co
 版权所有 © 2024-2026 CÔNG TY TNHH TẬP ĐOÀN CÔNG NGHỆ GALAXY VIỆT NAM（越南 GALAXY VIỆT NAM 科技集团）
 
 Copyright © 2024-2026 GALAXY VIỆT NAM Technology Group Co., Ltd. All rights reserved.
+
+## 许可证 / License
+
+本项目采用 **MIT 许可证** 开源，任何人可自由使用、修改与分享，详见 [LICENSE](LICENSE)。
+
+This project is licensed under the **MIT License** — anyone is free to use, modify and share it. See [LICENSE](LICENSE).
