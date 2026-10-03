@@ -1,4 +1,8 @@
 # coolers.py
+# 用途：将 NAKO 工业冷风机报价 Excel 中的整机与配件价格导入 MySQL（solar_quotation_db），
+#       并生成阶梯价格矩阵（大型/中型经销商、中型/小型安装商 × 越南本地仓/中国出港）。
+# Purpose: Import NAKO industrial evaporative cooler products & accessories from the Excel
+#          quotation sheet into MySQL, and build the tiered price matrix by region & trade term.
 import pandas as pd
 import pymysql
 import re

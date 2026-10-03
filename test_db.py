@@ -1,4 +1,6 @@
 # test_db.py
+# 用途：测试本地 MySQL（XAMPP）连接，并列出 solar_quotation_db 中的表，用于环境自检。
+# Purpose: Test the local MySQL (XAMPP) connection and list tables in solar_quotation_db.
 import pymysql
 
 try:

@@ -1,4 +1,8 @@
 # import_fans.py
+# 用途：从“2026 一级经销合作价格单”Excel 导入 15 款工业节能吊扇（大型 4.2M~7.3M + 中小型 2.4M~3.8M）
+#       及阶梯价格（CNY 基准换算 USD）到 MySQL。
+# Purpose: Import 15 HVLS industrial ceiling fans (large 4.2M-7.3M + medium 2.4M-3.8M) and
+#          tiered prices (CNY base converted to USD) from Excel into MySQL.
 import pandas as pd
 import pymysql
 import re

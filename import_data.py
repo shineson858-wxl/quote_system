@@ -1,4 +1,7 @@
 # import_data.py
+# 用途：从“0513-东南亚销售指导价”Excel 批量导入汇率、逆变器/储能电池及东南亚本地仓组件参考价到 MySQL。
+# Purpose: Bulk-import exchange rates, inverters/batteries and Southeast-Asia local-warehouse
+#          module reference prices from the Excel price list into MySQL.
 import pandas as pd
 import pymysql
 import re
